@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT
+- 🌱 React developer, always learnig. experience in Javascript, ReactJS, React Native, Html, Css with Styled components, Sass Style Sheets and Tailwind CSS
 - 📫 How to reach me: www.linkedin.com/in/bruna-santos-9bb5b0220
 - 😄 Pronouns: SHE/HER
 
